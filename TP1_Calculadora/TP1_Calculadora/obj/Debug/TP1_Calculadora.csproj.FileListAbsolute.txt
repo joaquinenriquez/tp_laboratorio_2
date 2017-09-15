@@ -1,0 +1,10 @@
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\bin\Debug\TP1_Calculadora.exe.config
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\bin\Debug\TP1_Calculadora.exe
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\bin\Debug\TP1_Calculadora.pdb
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.Properties.Resources.resources
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.csproj.GenerateResource.Cache
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.exe
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.pdb
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP1\TP1_Calculadora\TP1_Calculadora\obj\Debug\TP1_Calculadora.Form1.resources
