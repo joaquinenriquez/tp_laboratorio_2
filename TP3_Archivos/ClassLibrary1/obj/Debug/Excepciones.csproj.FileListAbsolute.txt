@@ -1,0 +1,5 @@
+D:\VisualStudio\Enriquez.Joaquin.2C\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\VisualStudio\Enriquez.Joaquin.2C\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\VisualStudio\Enriquez.Joaquin.2C\ClassLibrary1\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Enriquez.Joaquin.2C\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\VisualStudio\Enriquez.Joaquin.2C\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
