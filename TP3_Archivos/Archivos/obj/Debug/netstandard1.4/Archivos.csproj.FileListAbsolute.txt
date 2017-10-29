@@ -1,0 +1,10 @@
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\bin\Debug\netstandard1.4\Archivos.deps.json
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\obj\Debug\netstandard1.4\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\obj\Debug\netstandard1.4\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\obj\Debug\netstandard1.4\Archivos.AssemblyInfo.cs
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\bin\Debug\netstandard1.4\Archivos.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\bin\Debug\netstandard1.4\Archivos.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\bin\Debug\netstandard1.4\Excepciones.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\bin\Debug\netstandard1.4\Excepciones.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\obj\Debug\netstandard1.4\Archivos.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Archivos\obj\Debug\netstandard1.4\Archivos.pdb

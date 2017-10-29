@@ -6,3 +6,28 @@ D:\VisualStudio\Enriquez.Joaquin.2C\TP_3_Archivos\bin\Debug\ClassLibrary1.dll
 D:\VisualStudio\Enriquez.Joaquin.2C\TP_3_Archivos\bin\Debug\ClassLibrary1.pdb
 D:\VisualStudio\Enriquez.Joaquin.2C\TP_3_Archivos\obj\Debug\TP_3_Archivos.exe
 D:\VisualStudio\Enriquez.Joaquin.2C\TP_3_Archivos\obj\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.exe.config
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.exe
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\ClassLibrary1.dll
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\ClassLibrary1.pdb
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.exe
+C:\Users\infistioticos\Documents\Tecnicatura FRA\programacion2\TPs\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.pdb
+C:\Users\mrRobot\Documents\Documentacion\Programacion II\TPs\TP3_Archivos-20171023T155140Z-001\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\mrRobot\Documents\Documentacion\Programacion II\TPs\TP3_Archivos-20171023T155140Z-001\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\mrRobot\Documents\Documentacion\Programacion II\TPs\TP3_Archivos-20171023T155140Z-001\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.exe
+C:\Users\mrRobot\Documents\Documentacion\Programacion II\TPs\TP3_Archivos-20171023T155140Z-001\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.pdb
+D:\TP3\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.exe.config
+D:\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.exe
+D:\TP3\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.exe
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\obj\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.exe.config
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.exe
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\bin\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\bin\Debug\Excepciones.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\TP_3_Archivos\bin\Debug\Excepciones.pdb

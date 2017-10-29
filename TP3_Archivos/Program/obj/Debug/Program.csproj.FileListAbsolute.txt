@@ -1,0 +1,14 @@
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Program.exe.config
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Program.exe
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Program.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Clases Instanciables.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Excepciones.dll
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\TP_3_Archivos.exe
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Clases Instanciables.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\Excepciones.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\TP_3_Archivos.pdb
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\bin\Debug\TP_3_Archivos.exe.config
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\obj\Debug\Program.exe
+C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Program\obj\Debug\Program.pdb
