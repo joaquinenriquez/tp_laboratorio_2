@@ -1,6 +1,0 @@
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\infistioticos\Desktop\TP3_Archivos (3)\TP3_Archivos\Excepciones\obj\Debug\Excepciones.pdb
