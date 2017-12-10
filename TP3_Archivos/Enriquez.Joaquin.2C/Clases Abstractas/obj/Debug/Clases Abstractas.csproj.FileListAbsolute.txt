@@ -1,0 +1,8 @@
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
