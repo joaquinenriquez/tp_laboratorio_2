@@ -1,0 +1,12 @@
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\infistioticos\source\repos\TP3\Enriquez.Joaquin.2C\Clases Instanciables\bin\Debug\Archivos.pdb
